@@ -1,5 +1,5 @@
 # About Me:
-💻 Computer Engineering student passionate about building impactful software.<br>🚀 Knowledgeable in Java, Python, JavaScript, React, and Node.js.<br>🧠 Interested in AI, Machine Learning, DevOps.<br>🔧 Experienced in API integration, authentication, and debugging.<br>🤖 Created AI-powered systems for ad generation.<br>🌐 Learning advanced backend and cloud deployment (AWS, Railway, Render).<br>🎯 Focused on clean, scalable, and maintainable code.<br>
+💻 AI & Data Science Engineering student passionate about building impactful software.<br>🚀 Knowledgeable in Java, Python, JavaScript, React, and Node.js.<br>🧠 Interested in AI, Machine Learning, DevOps.<br>🔧 Experienced in API integration, authentication, and debugging.<br>🤖 Created AI-powered systems for ad generation.<br>🌐 Learning advanced backend and cloud deployment (AWS, Railway, Render).<br>🎯 Focused on clean, scalable, and maintainable code.<br>
 
 
 ## 🌐 Socials:
