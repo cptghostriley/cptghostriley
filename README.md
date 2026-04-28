@@ -1,5 +1,12 @@
 # About Me:
-💻 AI & Data Science Engineering student passionate about building impactful software.<br>🚀 Knowledgeable in Java, Python.<br>🧠 Interested in AI, Machine Learning, DevOps.<br>🤖 Created AI-powered systems for ad generation.<br>🌐 Learning advanced backend and cloud deployment (AWS, Railway, Render).<br>🎯 Focused on clean, scalable, and maintainable code.<br>
+💻 AI Engineer focused on building scalable, production-grade systems.<br>
+🚀 Working across Python, backend systems, and distributed architectures.<br>
+🧠 Specialized in RAG pipelines, embeddings, and document intelligence systems.<br>
+⚙️ Building microservices, async pipelines (Celery/Redis), and multi-VM processing systems.<br>
+☁️ Experienced with cloud infrastructure (AWS, Azure, GCP) and scalable deployments.<br>
+🗄️ Strong focus on PostgreSQL, indexing, and database performance optimization.<br>
+🔄 Designing ETL pipelines, automation systems, and data-driven workflows.<br>
+🎯 Focused on high-performance, scalable, and production-ready engineering.
 
 
 ## 🌐 Socials:
